@@ -1,0 +1,46 @@
+{
+  "name": "esports-standalone-components",
+  "version": "1.0.0",
+  "description": "Standalone esports engagement components for React/Next.js projects",
+  "main": "index.ts",
+  "types": "index.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "esports",
+    "react",
+    "components",
+    "engagement",
+    "predictions",
+    "trivia",
+    "leaderboard",
+    "countdown",
+    "highlights"
+  ],
+  "author": "Esports Platform Team",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.2.2"
+  },
+  "files": [
+    "*.ts",
+    "*.tsx",
+    "*.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-org/esports-standalone-components.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-org/esports-standalone-components/issues"
+  },
+  "homepage": "https://github.com/your-org/esports-standalone-components#readme"
+}
